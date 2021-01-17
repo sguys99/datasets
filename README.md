@@ -33,6 +33,7 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 - NAB(Numenta Anomaly Benchmark) dataset [[source]](https://www.kaggle.com/boltzmannbrain/nab)
   - novel benchmark for evaluating time series anomaly detection algorithms  
   - The full dataset is included hear. [[full source]](https://github.com/numenta/NAB)
+- AQ : Air quality sensor dataset [[source]](https://github.com/zhouxu-ds/air-quality-pattern-recognition)
 
 ## Etc.
 
