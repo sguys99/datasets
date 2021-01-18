@@ -21,6 +21,7 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 - sunspots.csv : a monthly count of the number of observed sunspots for just over 230 years (1749-1983)
 - rare_events.csv : rare event classification in multivariate time series [[source]](https://github.com/ANONYMOUS-GURU/RareEventDetection/blob/master/data/rare_events.csv)
   - a real world dataset provided from a pulp-and-paper manufacturing industry[[paper]](https://arxiv.org/abs/1809.10717)
+- a02.dat : EKG data[[source]](https://github.com/mrahtz/sanger-machine-learning-workshop)
 
 ## Multivariate Time Series
 - GEFCom2014-E.csv : Hourly energy load [[source]](http://blog.drhongtao.com/2017/03/gefcom2014-load-forecasting-data.html)
