@@ -15,6 +15,7 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 
 ## Univariate Time Series
 - airline_passengers.csv : Monthly thousands of passengers
+- BTC-USD.csv : Bitcoin historical prices [[source]]([https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm](https://finance.yahoo.com/quote/BTC-USD/history?period1=1420070400&period2=1689033600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true))
 - monthly-milk-production.csv
 - sales-of-shampoo.csv
 - Henry_Hub_Natural_Gas_Spot_Price.csv : Daily natural gas price [[source]](https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm)
