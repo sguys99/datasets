@@ -39,6 +39,11 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
   - novel benchmark for evaluating time series anomaly detection algorithms  
   - The full dataset is included hear. [[full source]](https://github.com/numenta/NAB)
 - AQ : Air quality sensor dataset [[source]](https://github.com/zhouxu-ds/air-quality-pattern-recognition)
+- ETDataset : Electricity Transformer dataset [[source]](https://github.com/zhouhaoyi/ETDataset/tree/main)
+  - ETTh1.csv
+  - ETTh2.csv
+  - ETTm1.csv
+  - ETTm2.csv
 
 ## Etc.
 
